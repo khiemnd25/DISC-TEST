@@ -23,7 +23,7 @@ scrollbar-width: thin !important;
 --title:'Cormorant Garamond', serif;
 --cursive:'Dancing Script', cursive;
 }
-::-webkit-scrollbar {
+/*::-webkit-scrollbar {
 height: 12px;
 width: 8px;
 background: var(--dark);
@@ -34,7 +34,7 @@ background: gray;
 }
 ::-webkit-scrollbar-corner {
 background: var(--paleblue);
-}
+}*/
 
 body{
 margin:0;
