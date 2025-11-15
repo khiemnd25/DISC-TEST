@@ -176,17 +176,6 @@ padding:2rem;
 position:relative;
 }
 
-.section2 section:nth-child(1){
-}
-
-.section2 section:nth-child(1) em{
-font-size:2.5em;
-background-image:url("../images/icon_1.png");
-background-repeat:no-repeat;
-background-position:center;
-padding:25px 25px;
-}
-
 
 .section2 section:nth-child(1) p {
     font-weight: 300;
@@ -376,7 +365,7 @@ width:100%;
 background-color:var(--palepink);
 color:var(--lite);
 position:relative;
-background-image:url("https://i.postimg.cc/R0FXBD2V/icon-2.png");
+background-image:url("/assets/icon-2.png");
 background-repeat:no-repeat;
 background-position:top right;
 }
