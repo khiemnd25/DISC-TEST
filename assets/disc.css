@@ -327,11 +327,6 @@ line-height:1.6em;
 font-weight:300;
 }
 
-.section3 section span .btn1{
-display:block;
-width:230px;
-text-align:center;
-}
 
 @media (max-width: 1024px){
     .section3 section:nth-child(1) {
