@@ -407,6 +407,7 @@ display: block;
 min-height: 45px;
 border-radius: 0;
 color: var(--black);
+font-size: 16px;
 }
 
 .top_header fieldset .btn2 {
