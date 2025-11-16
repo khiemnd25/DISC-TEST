@@ -408,6 +408,7 @@ min-height: 45px;
 border-radius: 0;
 color: var(--black);
 font-size: 16px;
+font-family: var(--default);
 }
 
 input[type="date"]:not(:focus):invalid:before {
