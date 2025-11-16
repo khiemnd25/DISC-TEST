@@ -403,6 +403,7 @@ margin:auto;
     border: 0;
     outline: none;
     width: 100%;
+    display: block;
     color: var(--black);
     text-align: left;
 }
